@@ -52,7 +52,7 @@ https://github.com/Mr-Anik1/GptFlix.git
 2. Navigate to the project directory:
 
 ```bash
-cd gpt-flix
+cd GptFlix
 ```
 
 3. Install project dependencies:
