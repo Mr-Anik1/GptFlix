@@ -6,19 +6,19 @@
 
 - #### [Anik](https://t.me/anik2002)
 
-**Project Title:**
+### Project Title:
 
 **_GptFlix_** AI-Powered Movie Suggestion Application
 
-**Introduction**
+### Introduction
 
 GptFlix is an AI-powered, Netflix-like movie recommendation platform designed to enhance the movie-watching experience. With a sleek user interface, GptFlix allows users to search for movies, explore genres, and discover personalized movie suggestions based on their preferences.
 
-**Description**
+### Description
 
 The core feature of GptFlix is its intelligent recommendation engine, which leverages AI algorithms to suggest movies tailored to user interests. Users can input their preferred movie titles, genres, or keywords into the search box, and GptFlix will return a list of curated movie suggestions. The platform is designed with a modern, responsive layout, offering a seamless experience across devices.
 
-**Key Features**
+### Key Features
 
 - **AI-Powered Recommendations:** Dynamic movie suggestions based on user input.
 
@@ -30,18 +30,18 @@ The core feature of GptFlix is its intelligent recommendation engine, which leve
 
 GptFlix is perfect for users looking for new movies to watch or for discovering hidden gems within their favorite genres.
 
-**Getting Started**
+### Getting Started
 
 To get a local copy of this project up and running on your machine, follow these instructions:
 
-**Prerequisites**
+### Prerequisites
 
 You will need the following software/tools installed:
 
 - Node.js
 - Git
 
-**Installation**
+### Installation
 
 1. Clone the repository:
 
@@ -67,7 +67,7 @@ npm install
 npm run dev
 ```
 
-**To access the project in your web browser, please follow these steps:**
+### To access the project in your web browser, please follow these steps:
 
 - Open your web browser.
 - Enter the following URL in the address bar.

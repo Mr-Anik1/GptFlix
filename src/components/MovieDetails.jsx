@@ -69,7 +69,7 @@ const MovieDetails = () => {
             </div>
 
             {/* Movie Release, Language, country */}
-            <div className="space-y-4 bg-gradient-to-r from-black to-sky-600 px-6 py-6 text-lg font-semibold text-white shadow-lg md:w-[60%] md:rounded-r-lg md:px-12 lg:w-[45%]">
+            <div className="space-y-4 rounded-r-lg bg-gradient-to-r from-black to-sky-600 px-6 py-6 text-lg font-semibold text-white shadow-lg md:w-[60%] md:px-12 lg:w-[45%]">
               <div className="mb-4 border-b border-slate-600 pb-2 text-xl font-semibold md:text-3xl">
                 Movie Details
               </div>
