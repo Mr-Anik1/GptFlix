@@ -163,13 +163,13 @@ npm install -g firebase-tools
 
 # Redux Setup
 
-- Install redux toolkit as a devDependencies
+- Install redux toolkit as a regular dependencies
 
 ```
-npm i -D @reduxjs/toolkit
+npm i @reduxjs/toolkit
 ```
 
-- Install redux as a dependencies
+- Install redux as a regular dependencies
 
 ```
 npm i react-redux
